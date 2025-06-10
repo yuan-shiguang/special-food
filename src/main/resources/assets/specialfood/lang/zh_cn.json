@@ -1,0 +1,13 @@
+{
+  "itemGroup.specialfood": "奇怪的食物",
+  "item.specialfood.concrete_spaghetti": "42号混凝土拌意大利面",
+  "effect.specialfood.concrete_warning": "§c含有42号混凝土，请谨慎食用",
+  "item.specialfood.stargazy_pie":"仰望星空派",
+  "item.specialfood.stargazy_pie.desc": "§6传说中的英国美食",
+  "item.specialfood.fermented_herring": "鲱鱼罐头",
+  "item.specialfood.fermented_herring.desc": "§4传说中的瑞典美食",
+  "item.specialfood.grilled_rebar": "烤钢筋",
+  "item.specialfood.grilled_rebar.desc": "§8工地风味\"美食\"",
+  "item.specialfood.recipe_book": "特殊食物配方书",
+  "container.specialfood.recipe_book": "配方指南"
+}

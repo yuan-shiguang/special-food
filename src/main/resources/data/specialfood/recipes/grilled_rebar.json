@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SSS",
+      "III",
+      "SSS"
+    ],
+    "key": {
+      "I": {"item": "minecraft:iron_ingot"},
+      "S": {"item": "minecraft:sweet_berries"}
+    },
+    "result": {
+      "item": "specialfood:grilled_rebar",
+      "count": 3
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "III",
+      "IFI",
+      "III"
+    ],
+    "key": {
+      "I": {"item": "minecraft:iron_ingot"},
+      "F": {"item": "minecraft:cod"}
+    },
+    "result": {
+      "item": "specialfood:fermented_herring",
+      "count": 1
+    }
+  }

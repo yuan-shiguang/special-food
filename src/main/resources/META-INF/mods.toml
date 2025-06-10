@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="36.2.42"  # Forge 1.16.5版本范围
+license="All rights reserved"
+
+[[mods]]
+modId="specialfood"  # 必须全小写
+version="1.0.0"  # 实际版本号
+displayName="奇怪的食物"
+authors="元時光"
+logoFile="assets/specialfood/textures/concrete_spaghetti.png"
+description='''
+添加了
+1.42号混凝土板意大利面
+2.仰望星空派
+'''
+
+[[dependencies.specialfood]]
+modId="forge"
+mandatory=true
+versionRange="36.2.42"  # 指定Forge版本
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.specialfood]]
+modId="minecraft"
+mandatory=true
+versionRange="1.16.5"  # MC版本范围
+side="BOTH"

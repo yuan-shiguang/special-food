@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "CCC"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "C": {
+      "item": "minecraft:gray_concrete_powder" 
+    }
+  },
+  "result": {
+    "item": "specialfood:concrete_spaghetti",
+    "count": 1 
+  }
+}

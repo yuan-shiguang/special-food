@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "FFF",
+      "SES",
+      "WWW"
+    ],
+    "key": {
+      "F": {"item": "minecraft:cooked_cod"},
+      "S": {"item": "minecraft:sugar"},
+      "W": {"item": "minecraft:wheat"},
+      "E": {"item": "minecraft:egg"}
+    },
+    "result": {
+      "item": "specialfood:stargazy_pie",
+      "count": 1
+    }
+  }

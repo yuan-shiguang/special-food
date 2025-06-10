@@ -1,0 +1,11 @@
+{
+  "itemGroup.specialfood": "Strange Foods",
+  "item.specialfood.concrete_spaghetti": "Concrete Spaghetti",
+  "effect.specialfood.concrete_warning": "§cContains concrete powder. Not FDA approved.",
+  "item.specialfood.stargazy_pie":"Stargazy Pie",
+  "item.specialfood.stargazy_pie.desc": "§6The legendary cuisine of England",
+  "item.specialfood.fermented_herring": "Fermented Herring",
+  "item.specialfood.fermented_herring.desc": "§4The legendary cuisine of Scandinavia",
+  "item.specialfood.grilled_rebar": "Grilled Rebar",
+  "item.specialfood.grilled_rebar.desc": "§8Construction site flavor \"gourmet\""
+}
