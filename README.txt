@@ -1,10 +1,10 @@
 <h1>《MineCraft》mod
 <h2>该mod目前添加了4中新食物
-1.[img](https://raw.githubusercontent.com/yuan-shiguang/special-food/refs/heads/main/src/main/resources/assets/specialfood/textures/items/concrete_spaghetti.png)
+1.![image](https://raw.githubusercontent.com/yuan-shiguang/special-food/refs/heads/main/src/main/resources/assets/specialfood/textures/items/concrete_spaghetti.png)
 42号混泥土拌意大利面
-2.[img](https://raw.githubusercontent.com/yuan-shiguang/special-food/refs/heads/main/src/main/resources/assets/specialfood/textures/items/fermented_herring.png)
+2.![image](https://raw.githubusercontent.com/yuan-shiguang/special-food/refs/heads/main/src/main/resources/assets/specialfood/textures/items/fermented_herring.png)
 鲱鱼罐头
-3.[img](https://raw.githubusercontent.com/yuan-shiguang/special-food/refs/heads/main/src/main/resources/assets/specialfood/textures/items/grilled_rebar.png)
+3.![image](https://raw.githubusercontent.com/yuan-shiguang/special-food/refs/heads/main/src/main/resources/assets/specialfood/textures/items/grilled_rebar.png)
 烤钢筋
-4.[img](https://raw.githubusercontent.com/yuan-shiguang/special-food/refs/heads/main/src/main/resources/assets/specialfood/textures/items/stargazy_pie.png)
+4.![image](https://raw.githubusercontent.com/yuan-shiguang/special-food/refs/heads/main/src/main/resources/assets/specialfood/textures/items/stargazy_pie.png)
 仰望星空派
